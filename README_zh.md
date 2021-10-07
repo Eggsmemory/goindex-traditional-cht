@@ -4,7 +4,7 @@
 
 [go2index/index.js](https://github.com/Eggsmemory/goindex-traditional-cht/blob/master/go2index/index.js) 是Workers腳本的內容。
 
-這個主題的goindex目前是基於 [Achrou/goindex-theme-acrou](https://github.com/Achrou/goindex-theme-acrou)
+這個主題的goindex目前是基於 [Achrou/goindex-theme-acrou](https://github.com/Achrou/goindex-theme-acrou) 修改並翻譯為繁體中文版
 
 [README](README.md) | [中文文檔](README_zh.md)
 
