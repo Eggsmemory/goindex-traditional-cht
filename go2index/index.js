@@ -1,7 +1,7 @@
 // =======Options START=======
 var authConfig = {
-  siteName: "GoIndex-theme-acrou", // 網站名稱
-  version: "1.1.2", // 程序版本
+  siteName: "goindex-traditional-cht", // 網站名稱
+  version: "0.0.1", // 程序版本
   theme: "acrou",
   // 強烈推薦使用自己的 client_id 和 client_secret
   client_id: "528978157835-87j8t3nikeugd1fefqufdb9knu9551n8.apps.googleusercontent.com",
