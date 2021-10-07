@@ -46,9 +46,10 @@ EGG的圖床: [https://goindex-egg.eggsmemory.workers.dev](https://goindex-egg.e
 1. 開啟[Google Drive API](https://console.developers.google.com/apis/api/drive.googleapis.com/overview)
 2. 創建一個 [OAuth client ID](https://console.developers.google.com/apis/credentials/oauthclient)
 3. 本地安裝[rclone](https://rclone.org/downloads/)
-4. 使用`rclone`獲取`refresh_token`
-5. 下載`index.js` (https://github.com/Eggsmemory/goindex-traditional-cht/blob/master/go2index/index.js) 然後替換`client_id`,`client_secret`,`refresh_token` 為你剛剛獲取到的
-6. 把代碼部署到[Cloudflare Workers](https://www.cloudflare.com/)
+   **需開啟Google Drive API、應用程式類型選擇電腦版應用程式
+5. 使用`rclone`獲取`refresh_token`
+6. 下載`index.js` (https://github.com/Eggsmemory/goindex-traditional-cht/blob/master/go2index/index.js) 然後替換`client_id`,`client_secret`,`refresh_token` 為你剛剛獲取到的
+7. 把代碼部署到[Cloudflare Workers](https://www.cloudflare.com/)
 
 > 如果你寫了一篇不錯的文章，想分享給大家，請提交Issues，我會把鏈接貼在這里。
 
